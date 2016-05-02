@@ -1,2 +1,2 @@
 # helloworld
-first GIT repo
+first GIT repository
